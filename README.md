@@ -33,7 +33,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/pattern-atoz-java.git
+git clone [https://github.com/your-username/pattern-atoz-java.git](https://github.com/VishwajitVBhat/A-Z-Pattern/blob/main/Pattern_AtoZ.java)
 
 
 Open the project in your IDE.
